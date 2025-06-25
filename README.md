@@ -91,3 +91,107 @@ O objetivo é **centralizar tarefas do dia a dia**, facilitando o uso e aumentan
 
 ---
 
+## 🧰 Stacks Utilizadas
+
+Este projeto foi desenvolvido utilizando um conjunto moderno de tecnologias tanto para o front-end quanto para o back-end, repositório e deploy:
+
+| Categoria         | Tecnologias |
+|------------------|-------------|
+| **Back / Banco** | 🔥 [Firebase](https://firebase.google.com/) – Backend como serviço, utilizado para autenticação e banco de dados. |
+| **Front-end**    | ⚡ [Vite](https://vitejs.dev/) – Bundler rápido e moderno.<br>⚛️ [React JS](https://react.dev/) – Biblioteca para construção da interface.<br>🎨 [Bootstrap 5](https://getbootstrap.com/) – Framework CSS para layout e responsividade. |
+| **Repositório**  | 🐙 [GitHub](https://github.com/) – Hospedagem de código e controle de versão. |
+| **Deploy**       | ▲ [Vercel](https://vercel.com/) – Plataforma de deploy contínuo para aplicações front-end. |
+
+---
+
+## 🔁 Fluxo de Uso do MVP
+
+Abaixo, um diagrama de alto nível representando como os usuários interagem com a aplicação:
+
+<div style="font-size: 24px; font-family: Arial, sans-serif;">
+
+### 🔄 **Fluxo do Sistema**  
+| **🎯 Personal Trainer**       | **👤 Aluno**                |
+|-------------------------------|-----------------------------|
+| 🔐 `Login`                    | 🔐 `Login`                  |
+| ⬇️                            | ⬇️                          |
+| 📊 `Agenda`                   | 🏋️ `Ver perfil`             |
+| ⬇️                            | ⬇️                          |
+| 👥 `Cadastrar Aluno`          | 📅 `Marcar Sessão`          |
+| ⬇️                            | ⬇️                          |
+| 📝 `Criar Treino`             | 💳 `Confirmar Pagamento`    |
+| ⬇️                            |                             |
+| 💰 `Acompanhar Pagamentos`    |                             |
+
+</div>
+
+---
+## 🖼️ Protótipos de Interface - Perfil Personal
+
+Prototipagem das principais telas desenvolvidas para o sistema:
+
+### **📱 Tela Inicial (Dashboard)**
+![Dashboard Personal](https://github.com/user-attachments/assets/61b661f6-1502-4b75-8e92-f1d74f06c0d6)  
+*Visão geral do perfil do personal trainer com métricas e acesso rápido*
+
+---
+
+### **📅 Tela de Agenda**
+![Agenda](https://github.com/user-attachments/assets/23a6e0aa-26eb-4841-bc51-b3a52fa2ec1c)  
+*Controle de sessões agendadas com visualização por dia/semana/mês*
+
+---
+
+### **👥 Relação de Alunos**
+![Alunos](https://github.com/user-attachments/assets/230d9065-1a36-468e-b2e8-bc66af00a3cd)  
+*Listagem completa de alunos com filtros e status de treino*
+
+---
+
+### **💰 Gestão Financeira**
+![Financeiro](https://github.com/user-attachments/assets/87495e60-9d16-4065-89a7-d84e38cf0804)  
+*Controle de pagamentos, recebimentos e relatórios financeiros*
+
+---
+
+### **🏋️ Treino & Mensagens**
+![Treino](https://github.com/user-attachments/assets/cf0a4b3d-64f3-4625-8fad-d75f97302c2a)  
+*Editor de treinos e sistema de mensagens integrado*
+
+---
+
+## 👤 Protótipos - Perfil Aluno (Mobile Responsivo)
+
+### **📱 Dashboard Aluno**  
+![Dashboard Aluno](https://github.com/user-attachments/assets/0ba414f3-5e11-446b-9772-75e02cd62022)  
+*Visão do aluno com:*  
+- ✔️ Regras de uso do sistema  
+- 🕒 Status de treinos  
+- 📅 Módulo de agendamento integrado  
+
+---
+
+### **💬 Treino & Mensageria**  
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/925cc1c1-04d7-4b45-b118-5942a23048f6" width="45%" alt="Tela de Treinos">
+  <img src="https://github.com/user-attachments/assets/d9d2931a-ad8a-4ceb-b6cb-a3d8813dbdc5" width="45%" alt="Chat de Mensagens">
+</div>  
+*Fluxo completo:*  
+1. 🏋️‍♂️ Visualização de treinos atribuídos  
+2. ✉️ Comunicação direta com o personal trainer  
+
+---
+
+### **⏱️ Autoatendimento - Agendamento**  
+![Agendamento Aluno](https://github.com/user-attachments/assets/5dac24a4-feb4-45dc-a85b-d1d1c18550d8)  
+*Funcionalidades:*  
+- 📆 Calendário interativo  
+- 🎯 Seleção de horários disponíveis  
+- 🔔 Notificações de confirmação  
+</div>
+
+
+
+
+
+
