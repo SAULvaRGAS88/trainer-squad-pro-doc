@@ -101,6 +101,23 @@ Este projeto foi desenvolvido utilizando um conjunto moderno de tecnologias tant
 | **Front-end**    | ⚡ [Vite](https://vitejs.dev/) – Bundler rápido e moderno.<br>⚛️ [React JS](https://react.dev/) – Biblioteca para construção da interface.<br>🎨 [Bootstrap 5](https://getbootstrap.com/) – Framework CSS para layout e responsividade. |
 | **Repositório**  | 🐙 [GitHub](https://github.com/) – Hospedagem de código e controle de versão. |
 | **Deploy**       | ▲ [Vercel](https://vercel.com/) – Plataforma de deploy contínuo para aplicações front-end. |
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+
+| Tecnologia       | Imagem |  
+|------------------|--------|
+| **Firebase**     | <img src="https://github.com/user-attachments/assets/766f4108-381d-41de-b9c2-1523b47955eb" width="120" alt="Logo Firebase"> |  
+| **Vite**         | <img src="https://github.com/user-attachments/assets/ac84c588-d0cc-4a05-b593-e1e1d235a31d" width="120" alt="Logo Vite"> |  
+| **GitHub**       | <img src="https://github.com/user-attachments/assets/726833b4-0896-4b5e-9a1f-ef4f2da99436" width="120" alt="Logo GitHub"> |  
+| **Vercel**       | <img src="https://github.com/user-attachments/assets/ef6c43f8-582a-4e84-915f-9b4c658344be" width="120" alt="Logo Vercel"> |  
+| **React.js**     | <img src="https://github.com/user-attachments/assets/1c227e25-1df4-4882-b6b4-a8e30c9ea5ec" width="120" alt="Logo React"> |  
+| **Bootstrap**    | <img src="https://github.com/user-attachments/assets/5f2dc872-c7ff-471c-b9c6-70411c7ce854" width="120" alt="Logo Bootstrap"> |  
+| **MUI Material** | <img src="https://github.com/user-attachments/assets/a38ba3a4-9f4a-43c1-b4bc-7bb6e97db284" width="120" alt="Logo Material UI"> |  
+
+</div>
+
+📌 *Todas as imagens são ilustrativas e representam as tecnologias utilizadas no projeto*
 
 ---
 
@@ -124,6 +141,21 @@ Abaixo, um diagrama de alto nível representando como os usuários interagem com
 | 💰 `Acompanhar Pagamentos`    |                             |
 
 </div>
+---
+
+# 🧑‍🏫 **Para Personais**  
+- 📅 Gestão de agenda  
+- 💸 Controle financeiro  
+- 📊 Avaliações físicas  
+
+# 🧑‍🎓 **Para Alunos**  
+- 🏋️ Treinos personalizados  
+- 🔔 Lembretes automáticos  
+- 💬 Chat integrado
+
+---
+
+> "Ferramenta tudo-em-um para gestão de treinos, alunos e finanças com tecnologia de ponta."
 
 ---
 ## 🖼️ Protótipos de Interface - Perfil Personal
@@ -190,8 +222,35 @@ Prototipagem das principais telas desenvolvidas para o sistema:
 - 🔔 Notificações de confirmação  
 </div>
 
+---
+# 🔒 Projeto Privado
 
+Este é um projeto de acesso restrito. Para solicitar permissão ou mais informações, utilize os canais oficiais:
 
+## 📬 Contatos para Acesso
 
+<div style="font-family: Arial, sans-serif;">
 
+| Ícone | Canal        | Contato/Link |
+|-------|--------------|--------------|
+| 📧    | **E-mail**   | <a href="mailto:saulvargascosta@hotmail.com" target="_blank">saulvargascosta@hotmail.com</a> |
+| 💬    | **WhatsApp** | <a href="https://wa.me/5551985027412" target="_blank">(51) 98502-7412</a> |
+| 🔗    | **LinkedIn** | <a href="https://www.linkedin.com/in/saul-vargas-68a97347/" target="_blank">Saul Vargas</a> |
 
+</div>
+
+---
+
+### 📋 Processo de Solicitação:
+1. Envie sua solicitação por um dos canais acima  
+2. Especifique:  
+   - 🏢 Sua instituição/organização  
+   - 🎯 Objetivo do acesso  
+3. Aguarde análise do time responsável  
+
+---
+
+⚠️ **Atenção**:  
+- Todos os direitos reservados  
+- Dados e materiais são confidenciais  
+- Acesso sujeito a aprovação  
